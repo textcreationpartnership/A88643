@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ludgates late petition, to the Parliament. And the prison of the fleets letter to Mr. Caril, answered, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88643</idno><idno type="EEBO-CITATION">99866864</idno>
+  <idno type="VID">119152</idno>
+  <idno type="EEBO-PROQUEST">2240930046</idno>
+  
+            <idno type="STC">Wing L3457</idno>
+            <idno type="STC">Thomason E1000_9</idno>
+            <idno type="STC">ESTC R207836</idno>
+            <idno type="PROQUEST">99866864</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866864e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119152)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1000[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ludgates late petition, to the Parliament. And the prison of the fleets letter to Mr. Caril, answered, &amp;c.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: Oct: 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119152:1"/>
+            <p>LUDGATES Late PETITION, TO THE PARLIAMENT.</p>
+            <p>And the Prison of the Fleets Letter to Mr. <hi>Caril,</hi> answe<g ref="char:EOLhyphen"/>red, &amp;c.</p>
+            <p>Printed in the Year, 1659. <add>Oct▪ 14.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:119152:2"/>
+            <p>IT is not to be doubted but the Par<g ref="char:EOLhyphen"/>liament both know that publick spirited person, <hi>James Frese:</hi> Gen<g ref="char:EOLhyphen"/>tleman, and his Book stiled, <hi>The Outcry of the Parliament and Army.</hi> But that those forty thousand (if Prisoners) which signed your Petition were well affected persons to the present Government is a great question, for all the Prisons and Goales in <hi>England,</hi> will not yield halfe that number so qualified.</p>
+            <p>It was but reason that he should pray for the regulating of the Law, and for abolishing the Capias that so he might quit himself from the payment of his just Debts.</p>
+            <p>If Perjuries should be punished ac<g ref="char:EOLhyphen"/>cording to the Letter of the Law, and your Petition, a great number that
+<pb n="3" facs="tcp:119152:2"/>have received the be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efit of the former five pound Act, would be forced to be Overseers of many Markets and pub<g ref="char:EOLhyphen"/>lick streets in <hi>England,</hi> having fraudu<g ref="char:EOLhyphen"/>lently made away their Estates on pur<g ref="char:EOLhyphen"/>pose to receive benefit by the said Act.</p>
+            <p>If any of you were tossed from Pri<g ref="char:EOLhyphen"/>son to Prison, it is well known it was not for any vertue in such, but for pu<g ref="char:EOLhyphen"/>nishing their vitiousnesse; to put men in Irons and thrust them in Dungeons deservedly, is not contrary to Law, see<g ref="char:EOLhyphen"/>ing Authority commandeth that such as do such offences should be so pu<g ref="char:EOLhyphen"/>nished, and put in such safe custody, witnesse that Metrapolitan Goale of Newgate, for your being tormented by Vermine may be true, but your being starved to death is most notorious false, nor can you bring one true example thereof since Qu▪ <hi>Maries</hi> dayes, their case and yours differing in this, they were
+<pb n="4" facs="tcp:119152:3"/>imprisoned for the testimony of a good Conscience, you for none: God, the fundamental Laws of <hi>England,</hi> and the rules of Christian Charity, will not any such thing, as that men should starve in Prison, and the relief you day<g ref="char:EOLhyphen"/>ly receive gives you the Wherstone. Some of you peradventure may have spent your estates and fortunes in the Parliament service (but that was not the originall cause of your imprison<g ref="char:EOLhyphen"/>ment) but none of you your lives, if so you could not have told them so, the rest of your Petition is not worth answe<g ref="char:EOLhyphen"/>ring saving your quotations of Scrip<g ref="char:EOLhyphen"/>ture, <hi>Nehemiah</hi> 5.5, 6. The complaint there is, that they having borrowed mo<g ref="char:EOLhyphen"/>ney upon their Lands and Vineyards, and not having wherewith to redeem them, they their Sons and their daugh<g ref="char:EOLhyphen"/>ters were brought into bondage, but that was not that, that the Nobles and the Rulers were reb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked for, but for
+<pb n="5" facs="tcp:119152:3"/>exacting usury, every one of his Bro<g ref="char:EOLhyphen"/>ther, as you may see in the next verse, It is no usury for any man to exact his own, nor cruelty to cast any one in pri<g ref="char:EOLhyphen"/>son for not paying a just debt. If you consult the words of our Saviour in <hi>Matthew</hi> 5.25, 26. verses, and the 12. of <hi>Luke</hi> 58, 59. verses, you will find it so, but you like the Prince of this World, quote Scripture by the halves, taking into you so much as may serve for your interest, and leaving out the rest; your other quotati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns is <hi>Nehemiah,</hi> Chapter the 19.12, 13. Verses, where mention is made of the Lor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s leading the people of Israel both by day and night, and his giving them upon Mount <hi>Sinai,</hi> right Iudgements, true Lawes, good Statutes and Commandements,: There is none I hope so impudent, as to deny the whole Decalogue to be right, just, and good. But I shall referr you onely to the two last, what juster Law then
+<pb n="6" facs="tcp:119152:4"/>that a man pay what he oweth, and to give <hi>Cesar</hi> his due? but to pay Debts by swearing, is this to do as we would be done unto? Lastly your Petition is Printed for the Prisoners of <hi>Ludgate,</hi> be<g ref="char:EOLhyphen"/>ing above two hundred freemen of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> &amp;c. Freemen and yet Prisoners is <hi>Nigro Signo,</hi> a White Blackbird. As for the Letter sent from the Fleet to Mr. <hi>Caril,</hi> on <hi>Thursday October</hi> the sixth, where they tell him if he were acquain<g ref="char:EOLhyphen"/>ted with those thousands of persons of Quality confined, and of whom excel<g ref="char:EOLhyphen"/>lent use might be made in their several degrees and stations; he would need no other Moniter to mind him to exhort his hearers, and our Masters, to re<g ref="char:EOLhyphen"/>member their often Remonstrances and Declarations, for your just liberties, his non-acquaintanse then is the cause they remember not their former Decla<g ref="char:EOLhyphen"/>rations; and should they enquire into the many thousands you speak of, they
+<pb n="7" facs="tcp:119152:4"/>would hardly find one of a thousand of whom such excellent use may be made of, as to hazard the confinement of their souls, for the freedome of their bodies, but you desire no more, and lesse as English men you deserve not; but they that subscribed those desires, are persons not meerly known in, but have served your Country, some in the Civil, some in the Millitary, some in both Governments; certainly in all you served well, otherwise you could not have merited so just a reward: your Prayer is the onely thing reasonable in your Letter, which is, that they might be heard, then th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se who shall be found able, let them be constrained, those who are put in upon design and knavery of their prosecutors be repaired in their credits and fortunes, those who are un<g ref="char:EOLhyphen"/>able to be set at liberty to earn their bread, yet not altogether so reasonable, for though you may be heard, who
+<pb n="8" facs="tcp:119152:5"/>shall be able to judge of your ability, or no non ability, when you have frau<g ref="char:EOLhyphen"/>dulently conveyed your estates to others; you have given directions what shall be done to such who are put in up<g ref="char:EOLhyphen"/>on designe and knavery of their prose<g ref="char:EOLhyphen"/>cutors, but not of such as put them<g ref="char:EOLhyphen"/>selves in prison upon design and knave<g ref="char:EOLhyphen"/>ry of their own; and they it is presumed are the greater part of the many thou<g ref="char:EOLhyphen"/>sand before spoken of. Next how should they who are unable being set at liberty, be able to earn their bread, it is to be feared, if they have no more then what they shall earn, they will starve, which is a sad period▪</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
